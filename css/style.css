@@ -483,4 +483,27 @@ p{
 .connected__area{
     padding-top: 200px;
 }
+.connect__content h6{
+    font-family: 'Roboto',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: uppercase;
+    color: var(--secundary);
+}
+.connect__content h2{
+    font-family: 'Roboto',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 52px;
+    text-align: center;
+    color: #212121;
+    margin-bottom: 64px;
+}
+.connect__img{
+    display: flex;
+    justify-content: space-around;
+}
 /* Connected Area End */
