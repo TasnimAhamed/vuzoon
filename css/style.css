@@ -402,6 +402,12 @@ p{
 .testimonial__area{
     background: var(--gris-fondo);
     padding-top: 108px;
+    position: relative;
+}
+.frame__img{
+    position: absolute;
+    top: -50%;
+    right: 8%;
 }
 .testimonial__row{
     margin-bottom: -112px;
